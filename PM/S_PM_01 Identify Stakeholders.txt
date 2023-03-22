@@ -1,0 +1,14 @@
+
+
+stakeholders  :
+
+
+1 -  Project team
+2 - Customer 
+3 - Sponsor 
+4 - Google map
+5 - markets
+6- End user 
+7 - Mobile app store 
+8 - Compatitors
+9 - Government 
